@@ -1,4 +1,5 @@
-# drum-kit
+# Drum Kit
 Drum kit that can be played with your keyboard or mouse.
 
-Each key corresponds to a certain sound.
+# Usage
+A fun tool to create music with snares, bass, toms and cymbals.
