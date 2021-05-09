@@ -1,0 +1,134 @@
+body {
+  text-align: center;
+  background-color: #62d2a2;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #1fab89;
+  font-family: 'Libre Franklin', sans-serif;
+  text-shadow: 3px 0 #d7fbe8;
+
+}
+
+footer {
+  color: black;
+  font-family: sans-serif;
+}
+
+.w {
+  background-image: url("images/tom1.png");
+  background-size: 150px;
+  background-position: bottom;
+
+}
+
+.a {
+  background-image: url("images/tom2.png");
+  background-size: 150px;
+  background-position: 20% 115%;
+}
+
+.s {
+  background-image: url("images/tom3.png");
+  background-size: 225px;
+  background-position: 40% 77%;
+
+}
+
+.d {
+  background-image: url("images/tom4.png");
+  background-size: 225px;
+  background-position: 40% 77%;
+}
+
+.j {
+  background-image: url("images/snare.png");
+  background-size: 300px;
+  background-position: 20% 55%;
+
+}
+
+.k {
+  background-image: url("images/crash.png");
+  background-size: 230px;
+  background-position: 45% 85%;
+}
+
+.l {
+  background-image: url("images/kick.png");
+  background-size: 200px;
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #1fab89;
+  font-size: 5rem;
+  font-family: 'Libre Franklin', sans-serif;
+  line-height: 2;
+  font-weight: 900;
+  color: #1fab89;
+  text-shadow: 3px 0 #d7fbe8;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+
+
+.song0 {
+  position: absolute;
+  top: 20%;
+  left: 7%;
+  height: 100px;
+  width: 100px;
+
+}
+
+.song1 {
+  position: absolute;
+  top: 5%;
+  left: 20%;
+  height: 100px;
+  width: 100px;
+
+}
+
+.song2 {
+  position: absolute;
+  top: 5%;
+  right: 20%;
+  height: 100px;
+  width: 100px;
+
+}
+
+.song3 {
+  position: absolute;
+  top: 20%;
+  right: 6%;
+  height: 100px;
+  width: 100px;
+
+}
